@@ -29,7 +29,6 @@ class OrderDetailController extends Controller {
      */
     public function addOrder(\Illuminate\Http\Request $request) {
 
-
         if ($request->method() == "POST") {
 
             $validator = $validator = $this->PaymentValidate(Input::all());
