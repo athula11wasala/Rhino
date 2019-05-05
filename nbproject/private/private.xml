@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/Athula/blog/resources/views/subject_add.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Athula/blog/resources/views/layouts/footer.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Athula/blog/resources/views/user_add.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Athula/blog/app/Repository/UserRepository.php</file>
+            <file>file:/C:/xampp/htdocs/Athula/blog/database/migrations/2014_10_12_000000_create_users_table.php</file>
+            <file>file:/C:/xampp/htdocs/Athula/blog/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/Athula/blog/app/Repository/StudentRepository.php</file>
+            <file>file:/C:/xampp/htdocs/Athula/blog/resources/views/subject_mark_add.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Athula/blog/app/StudentSubjectDetails.php</file>
+            <file>file:/C:/xampp/htdocs/Athula/blog/resources/views/layouts/header.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Athula/blog/app/Http/Controllers/UserController.php</file>
+            <file>file:/C:/xampp/htdocs/Athula/blog/app/Repository/SubjecMarktRepository.php</file>
+            <file>file:/C:/xampp/htdocs/Athula/blog/database/migrations/2019_05_01_053303_create_student_table.php</file>
+            <file>file:/C:/xampp/htdocs/Athula/blog/database/migrations/2019_05_01_053511_create_subjects_table.php</file>
+            <file>file:/C:/xampp/htdocs/Athula/blog/resources/views/student_add.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Athula/blog/app/Http/Controllers/LoginController.php</file>
+            <file>file:/C:/xampp/htdocs/Athula/blog/app/Subject.php</file>
+            <file>file:/C:/xampp/htdocs/Athula/blog/app/Repository/SubjectRepository.php</file>
+            <file>file:/C:/xampp/htdocs/Athula/blog/app/Student.php</file>
+            <file>file:/C:/xampp/htdocs/Athula/blog/app/Http/Controllers/StudentController.php</file>
+            <file>file:/C:/xampp/htdocs/Athula/blog/database/migrations/2019_05_01_053603_create_studnet_subjects_table.php</file>
+            <file>file:/C:/xampp/htdocs/Athula/blog/resources/views/dashboard.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
