@@ -28,11 +28,11 @@ $(document).ready(function () {
 
         var JsonTxt = JSON.parse($("#txtjson").val());
         validateFlag = false;
-        //  if(ValidateJson(JsonTxt) == false){
+         if(ValidateJson(JsonTxt) == false){
 
         ajaxCall(JsonTxt['data']);
 
-//                  }
+          }
 
 
     });
@@ -69,8 +69,6 @@ function ajaxCall(data) {
     });
 
 }
-
-
 function errorDisplay(data) {
 
     $("#div_errors").html('');
@@ -84,10 +82,6 @@ function errorDisplay(data) {
     }
 
 }
-
-
-
-
 function ValidateJson(JsonTxt) {
 
     var validateFlag = false;
