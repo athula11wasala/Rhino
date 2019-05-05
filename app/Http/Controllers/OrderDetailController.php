@@ -6,13 +6,8 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Input;
 use App\Order;
-use App\StudentSubjectDetails;
 use Illuminate\Support\Facades\Redirect;
-use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Validator;
-use App\Repository\StudentRepository;
-use App\Repository\SubjectRepository;
-use App\Repository\SubjecMarktRepository;
 use App\Traits\PaymentValidators;
 use App\Services\CmsService;
 
